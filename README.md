@@ -1,4 +1,4 @@
-<h1 align="center">Realtime Spotify Application ✨</h1>
+<h1 align="center">Personalized music recommendation app - suggests music based on user mood ✨</h1>
 
 About This Course:
 
